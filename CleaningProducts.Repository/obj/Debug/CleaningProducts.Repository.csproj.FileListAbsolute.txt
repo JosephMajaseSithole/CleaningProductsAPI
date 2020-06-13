@@ -1,0 +1,17 @@
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.Repository\obj\Debug\CleaningProducts.Repository.csprojAssemblyReference.cache
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.Repository\obj\Debug\CleaningProducts.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.Repository\bin\Debug\CleaningProducts.Repository.dll.config
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.Repository\bin\Debug\CleaningProducts.Repository.dll
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.Repository\bin\Debug\CleaningProducts.Repository.pdb
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.Repository\bin\Debug\CleaningProducts.Core.dll
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.Repository\bin\Debug\CleaningProducts.DataAccess.dll
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.Repository\bin\Debug\CleaningProducts.Core.pdb
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.Repository\bin\Debug\CleaningProducts.DataAccess.pdb
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.Repository\bin\Debug\CleaningProducts.DataAccess.dll.config
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.Repository\obj\Debug\CleaningProducts.Repository.csproj.CopyComplete
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.Repository\obj\Debug\CleaningProducts.Repository.dll
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.Repository\obj\Debug\CleaningProducts.Repository.pdb

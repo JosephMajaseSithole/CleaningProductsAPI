@@ -1,0 +1,5 @@
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.Core\bin\Debug\CleaningProducts.Core.dll
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.Core\bin\Debug\CleaningProducts.Core.pdb
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.Core\obj\Debug\CleaningProducts.Core.csproj.CoreCompileInputs.cache
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.Core\obj\Debug\CleaningProducts.Core.dll
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.Core\obj\Debug\CleaningProducts.Core.pdb

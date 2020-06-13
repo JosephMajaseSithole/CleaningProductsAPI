@@ -1,0 +1,16 @@
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.DataAccess\bin\Debug\CleaningProducts.DataAccess.dll.config
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.DataAccess\bin\Debug\CleaningProducts.DataAccess.dll
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.DataAccess\bin\Debug\CleaningProducts.DataAccess.pdb
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.DataAccess\bin\Debug\CleaningProducts.Core.dll
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.DataAccess\bin\Debug\CleaningProducts.Core.pdb
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.DataAccess\obj\Debug\CleaningProducts.DataAccess.csprojAssemblyReference.cache
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.DataAccess\obj\Debug\CleaningProducts.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.DataAccess\obj\Debug\CleaningProducts.DataAccess.csproj.CopyComplete
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.DataAccess\obj\Debug\CleaningProducts.DataAccess.dll
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.DataAccess\obj\Debug\CleaningProducts.DataAccess.pdb
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.DataAccess\obj\Debug\CleaningProducts.DataAccess.Migrations.AddSupplierTable.resources
+C:\Users\Majase\Desktop\East Landon\CleaningProducts_API\CleaningProducts\CleaningProducts.DataAccess\obj\Debug\CleaningProducts.DataAccess.csproj.GenerateResource.cache
